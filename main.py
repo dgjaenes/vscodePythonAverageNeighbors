@@ -1,4 +1,5 @@
 
+#Average number of close neighbors.
 
 def createMatriz(n, m):
     matriz = []
